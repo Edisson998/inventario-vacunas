@@ -10,16 +10,16 @@ Este sistema tiene como propósito llevar el registro de inventario del estado d
 # Características de la aplicación #
 
 - Administrador
-Funcionalidad 2: Formulario para agregar, editar y eliminar la información de los empleados.  
+Funcionalidad 1: Formulario para agregar, editar y eliminar la información de los empleados.  
 
-Funcionalidad 2a: Formulario para obtener un listado de los empleados registrados y poder realizar filtros de búsqueda por tipo de vacuna relacionando con la funcionalidad 2.
+Funcionalidad 2: Formulario para obtener un listado de los empleados registrados y poder realizar filtros de búsqueda por tipo de vacuna.
 
 
 - Empleados
 
 Funcionalidad 4 : Formulario para visualizar información del empleado.
 
-Funcionalidad 4a: Formulario para actualizar la información del empleado relacionado con funcionalidad 4.
+Funcionalidad 4a: Formulario para actualizar la información del empleado.
 
 # Construcción de la aplicación #
 
