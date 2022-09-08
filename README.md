@@ -2,13 +2,9 @@
 
 # Descripcion del proyecto #
 
-Proyecto desarrollado para Kruger Corporation. Este sistema tiene como propósito llevar el registro de inventario del estado de vacunación de los empleados.
+Proyecto desarrollado para Kruger Corporation. 
 
-El sistema contara con 2 roles: Administrador y Empleado.
-
-El rol Administrador se podra manipular la infomracion del empleado.
-
-El rol Empleado se podra visualizar y actualizar la información del mismo.
+Este sistema tiene como propósito llevar el registro de inventario del estado de vacunación de los empleados.
 
 
 # Características de la aplicación #
