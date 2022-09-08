@@ -1,0 +1,58 @@
+h6 {
+    margin-bottom: 0.25rem;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+ h6 {
+    font-size: 14px;
+  }
+}
+
+.btn-{
+    background-color: gray;
+    color:white;
+}
+
+.btn-Pfizer {
+    background-color: blueviolet;
+    color:white;
+}
+
+.btn-Pfizer:hover, .btn-Pfizer:focus, .btn-Pfizer:active {
+    background-color: blueviolet;
+    color:white;
+}
+
+.btn-AstraZeneca {
+    background-color: burlywood;
+    color:white;
+}
+
+.btn-AstraZeneca:hover, .btn-AstraZeneca:focus, .btn-AstraZeneca:active {
+    background-color: burlywood;
+    color:white;
+}
+
+
+.btn-Jhonson {
+    background-color: darkolivegreen;
+    color:white;
+}
+
+.btn-Jhonson:hover, .btn-Jhonson:focus, .btn-Jhonson:active {
+    background-color: darkolivegreen;
+    color:white;
+}
+
+
+.btn-Sputnik {
+    background-color: hotpink;
+    color:white;
+}
+
+.btn-Sputnik:hover, .btn-Sputnik:focus, .btn-Sputnik:active {
+    background-color: hotpink;
+    color:white;
+}
+
